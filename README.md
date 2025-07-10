@@ -2,7 +2,7 @@
 
 Ce projet est un programme développé en **QBasic**, un langage basé sur **BASIC** (Beginner's All-purpose Symbolic Instruction Code).  
 Il fonctionne avec des interpréteurs compatibles tels que **GW-BASIC** ou **QBasic**.
-# Transformation des Coordonnées Lambert en Coordonnées Géographiques
+## Transformation des Coordonnées Lambert en Coordonnées Géographiques
 
 ## Description  
 Ce programme permet de transformer des coordonnées Lambert en coordonnées géographiques (latitude, longitude) et inversement. Il prend en charge plusieurs systèmes de projection Lambert, dont Lambert I, Lambert II, Lambert III, Lambert IV et Eurolambert.
