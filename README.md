@@ -1,4 +1,4 @@
-# 🎮 Projet QBasic – Programme en BASIC
+#  Projet QBasic – Programme en BASIC
 
 Ce projet est un programme développé en **QBasic**, un langage basé sur **BASIC** (Beginner's All-purpose Symbolic Instruction Code).  
 Il fonctionne avec des interpréteurs compatibles tels que **GW-BASIC** ou **QBasic**.
@@ -35,7 +35,7 @@ Vous pouvez télécharger un interpréteur ici :
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus d’informations.
 ---
 
-## 🖥️ Prérequis
+##  Prérequis
 
 Pour exécuter ce programme, vous devez disposer d’un interpréteur BASIC.  
 Vous pouvez utiliser **GW-BASIC**, **QBasic**, ou un interpréteur compatible DOS.
