@@ -56,7 +56,7 @@ Vous pouvez utiliser **GW-BASIC**, **QBasic**, ou un interpréteur compatible DO
 
 ## 📄 Licence
 
-Ce projet est distribué sous la **licence MIT**.
+### Ce projet est distribué sous la **licence MIT**.
 
 Vous êtes libre de :
 - Utiliser ce code à des fins personnelles ou commerciales.
