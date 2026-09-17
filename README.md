@@ -7,6 +7,9 @@ Il fonctionne avec des interpréteurs compatibles tels que **GW-BASIC** ou **QBa
 ## Description  
 Ce programme permet de transformer des coordonnées Lambert en coordonnées géographiques (latitude, longitude) et inversement. Il prend en charge plusieurs systèmes de projection Lambert, dont Lambert I, Lambert II, Lambert III, Lambert IV et Eurolambert.
 
+<img width="752" height="562" alt="ddd" src="https://github.com/user-attachments/assets/7008114c-8b58-49a7-86d2-896c55eec893" />
+
+
 ## Fonctionnalités
 
 ### Transformation de coordonnées Lambert vers géographiques
